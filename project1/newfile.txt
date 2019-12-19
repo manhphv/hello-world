@@ -9,3 +9,4 @@ change from local : lan 3.
 change from local : lan 4
 change from local : lan 5
 change from server : lan 3
+change from local : lan 6
