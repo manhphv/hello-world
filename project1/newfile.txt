@@ -5,10 +5,5 @@ change from local : lan 1
 change from server : lan 1
 change from local : lan 2
 change from server : lan 2
-<<<<<<< HEAD
 change from local : lan 3.
 change from local : lan 4
-=======
-change from local : lan 3
-change from server : lan 3
->>>>>>> a26c4d16c739276b2b415af485d6b3bc2186a0df
