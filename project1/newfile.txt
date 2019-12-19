@@ -2,3 +2,4 @@ change from server
 change from local
 merged
 change from local : lan 1
+change from local : lan 2
