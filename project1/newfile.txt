@@ -3,4 +3,5 @@ change from local
 merged
 change from local : lan 1
 change from local : lan 2
-change from local : lan 3.
+change from local : lan 3
+change from local : lan 4
