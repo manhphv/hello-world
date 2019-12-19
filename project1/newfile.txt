@@ -1,3 +1,2 @@
-change from server
-change from local
-merged
+Clear file.
+change from server : lan 1
