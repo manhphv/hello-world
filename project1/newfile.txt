@@ -5,4 +5,5 @@ change from local : lan 1
 change from server : lan 1
 change from local : lan 2
 change from server : lan 2
-change from local : lan 3.
+change from local : lan 3
+change from server : lan 3
