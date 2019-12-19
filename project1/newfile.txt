@@ -9,4 +9,8 @@ change from local : lan 3.
 change from local : lan 4
 change from local : lan 5
 change from server : lan 3
+<<<<<<< HEAD
 change from local : lan 6
+=======
+>>>>>>> f5e5dbcb3e495d308ba48fd8a21a764b0f90a6dd
+change from server : lan 4
