@@ -18,3 +18,6 @@ change from server : lan 6
 change from local : lan 9
 change from local : lan 10
 change from server : lan 7
+change from local : lan 11
+change from local : lan 12
+change from local : lan 13
