@@ -30,3 +30,5 @@ change from local : lan 15
 change from server : lan 10
 change from server : lan 11
 change from server : lan 12
+change from local : lan 16
+change from local : lan 17
